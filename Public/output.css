@@ -723,6 +723,18 @@ video {
   margin-top: 1rem;
 }
 
+.ms-2 {
+  margin-inline-start: 0.5rem;
+}
+
+.ms-1 {
+  margin-inline-start: 0.25rem;
+}
+
+.ms-16 {
+  margin-inline-start: 4rem;
+}
+
 .block {
   display: block;
 }

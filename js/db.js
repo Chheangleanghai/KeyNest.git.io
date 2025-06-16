@@ -1,7 +1,7 @@
 const keyboards = [
     {
         id: 1,
-        name: "RGB blueTooth gaming  keyboard with ",
+        name: "RGB blueTooth gaming  keyboard",
         brand: "Logitech",
         price: 12.39,
         image: "asset/key1.avif",
@@ -23,11 +23,11 @@ const keyboards = [
     },
     {
         id: 3,
-        name: "RGB blueTooth gaming  keyboard with ",
+        name: "RGB blueTooth gaming  keyboard  ",
         brand: "Logitech",
         price: 605.50,
         image: "asset/key35.webp",
-        description: "RGB blueTooth gaming  keyboard with customizable keys",
+        description: "RGB blueTooth gaming  keyboard with customizable",
         featured: 'New',
         store: "undifined",
         stock: 15

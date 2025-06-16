@@ -291,15 +291,15 @@ function displayKeyboards() {
                 </div>
             </div>
             <div class="sm:p-2 px-2 md:p-6 sm:px-2  lg:p-6 w-full lg:h-60 md:h-52 sm:h-40 h-28   ">
-                <div class="w-full h-10 my-1 flex justify-between items-start sm:mb-5 mb-1">
-                    <h3 class=" text-xs sm:text-lg md:text-xl font-bold ">${keyboard.name}</h3>
+                <div class="w-full h-7 my-1 flex justify-between items-start sm:mb-5 mb-1">
+                    <h3 class=" text-[10px] sm:text-lg md:text-xl font-bold ">${keyboard.name}</h3>
                     <span class="bg-blue-100 text-blue-800 text-xs font-semibold sm:px-2.5 sm:py-0.5 px-1.5 py-0  rounded">${keyboard.featured}</span>
                 </div>
                 <p class="text-gray-600 my-2 text-[10px] sm:text-sm md:text-xl w-full xl:h-20 md:h-16 lg:mb-6 xl:mb-0 mb-0">${keyboard.description}</p>
-                <div class="flex justify-between items-center w-full h-20 lg:mb-0 sm:pb-6 pb-10">
+                <div class="flex justify-between items-center w-full h-12 mt-4 lg:mb-0 sm:pb-6 pb-10">
                     <span class="text-sm sm:text-2xl font-bold text-accent price ">$ ${keyboard.price}</span>
                     <div class="flex items-center md:space-x-3 space-x-1">
-                        <span class="md:text-xl text-xs text-gray-500 ">${keyboard.store}</span>
+                        <span class="md:text-xl text-[7px] text-gray-500 ">${keyboard.store}</span>
                         <i class="fas fa-truck text-green-500 md:text-xl text-xs"></i>
                     </div>
                 </div>
